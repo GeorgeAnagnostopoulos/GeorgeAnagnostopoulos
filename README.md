@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on web developement projects, if you have a good idea just ping me.
 - 📫 Email me at anagnostopoulos.george@gmail.com
 - ⚡ React/Nextjs/Astro/Strapi are my tools nowdays
-- 
+- Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,graphql,mongodb,nextjs,postgres,react,tailwind,vscode,mysql)](https://skillicons.dev)
