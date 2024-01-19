@@ -1,6 +1,6 @@
 ### Halloooo 👋
 
-- 🔭 I’m currently working on a couple of web developemnt projects for a non-profit organization.
+- 🔭 I’m working on a couple of web developemnt projects for a non-profit organization.
 - 🌱 I’m currently learning intensively German. 
 - 👯 I’m looking to collaborate on web developement projects, if you have a good idea just ping me.
 - 📫 Email me at anagnostopoulos.george@gmail.com
