@@ -6,4 +6,4 @@
 - 📫 Email me at anagnostopoulos.george@gmail.com
 - ⚡ React/Nextjs/Astro/Strapi are my tools nowdays
 - Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,graphql,mongodb,nextjs,postgres,react,tailwind,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,graphql,react,astro,nextjs,mongodb,sqlite,mysql,postgres,vscode)](https://skillicons.dev)
